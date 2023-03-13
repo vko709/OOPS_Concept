@@ -1,0 +1,15 @@
+/Users/vaibhav/Desktop/Banking/bin/Debug/net7.0/Banking
+/Users/vaibhav/Desktop/Banking/bin/Debug/net7.0/Banking.deps.json
+/Users/vaibhav/Desktop/Banking/bin/Debug/net7.0/Banking.runtimeconfig.json
+/Users/vaibhav/Desktop/Banking/bin/Debug/net7.0/Banking.dll
+/Users/vaibhav/Desktop/Banking/bin/Debug/net7.0/Banking.pdb
+/Users/vaibhav/Desktop/Banking/obj/Debug/net7.0/Banking.csproj.AssemblyReference.cache
+/Users/vaibhav/Desktop/Banking/obj/Debug/net7.0/Banking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vaibhav/Desktop/Banking/obj/Debug/net7.0/Banking.AssemblyInfoInputs.cache
+/Users/vaibhav/Desktop/Banking/obj/Debug/net7.0/Banking.AssemblyInfo.cs
+/Users/vaibhav/Desktop/Banking/obj/Debug/net7.0/Banking.csproj.CoreCompileInputs.cache
+/Users/vaibhav/Desktop/Banking/obj/Debug/net7.0/Banking.dll
+/Users/vaibhav/Desktop/Banking/obj/Debug/net7.0/refint/Banking.dll
+/Users/vaibhav/Desktop/Banking/obj/Debug/net7.0/Banking.pdb
+/Users/vaibhav/Desktop/Banking/obj/Debug/net7.0/Banking.genruntimeconfig.cache
+/Users/vaibhav/Desktop/Banking/obj/Debug/net7.0/ref/Banking.dll
